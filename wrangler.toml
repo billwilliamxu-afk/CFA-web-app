@@ -1,5 +1,5 @@
-name = "cfa-web-app"
-compatibility_date = "2024-03-18"
+name = "cfawebapp"
+compatibility_date = "2024-09-23"
 compatibility_flags = ["nodejs_compat"]
 main = ".open-next/worker.js"
 
